@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UntrustedInstaller
-- 👀 I’m interested in Chiptune, EDM, Development, OS, Hardware Development.
+- 👀 I'm a dissappointment!
 - 🌱 I’m currently learning Python, HTML, and C#
-- 😀 Thanks for showing intrest in me!
+- 😀 s m i l e
 
 <!---
 UntrustedInstaller/UntrustedInstaller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
