@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UntrustedInstaller
-- 👀 I'm a dissappointment!
+- 👀 I don't really do much, but I'm interested in legacy Operating Systems, Android, and Python
 - 🌱 I’m currently learning Python, HTML, and C#
 - 😀 s m i l e
 
