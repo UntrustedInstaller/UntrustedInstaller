@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @UntrustedInstaller
-- 👀 I don't really do much, but I'm interested in legacy Operating Systems, Android, and Python
-- 🌱 I’m currently learning Python, HTML, and C#
-- 😀 s m i l e
+👋 Hey. I'm UntrustedInstaller. Professional Dumbass.
 
-<!---
-UntrustedInstaller/UntrustedInstaller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a tech enthusiast with ADHD and a short attention span.
+I'm especially interested in legacy hardware and software, retro gaming, game development, and chiptune
+I'm not that much of an interesting person, but I try to do the things I like and make other people happy.
+
+email: spyrebeats4@gmail.com (young me picked this, I hate it so much)
+discord: UntrustedInstaller#7454
+reddit: /u/UntrustedInstance (or UntrustedInstaller as my displayname.
+youtube: UntrustedInstaller (it's really small so don't expect to find it)
